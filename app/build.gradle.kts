@@ -95,4 +95,6 @@ dependencies {
     implementation("androidx.hilt:hilt-navigation-compose:1.1.0")
     kapt("androidx.hilt:hilt-compiler:1.1.0")
 
+    implementation("androidx.compose.material:material:1.6.0")
+
 }
